@@ -13,8 +13,9 @@ Este projeto implementa uma API RESTful para o gerenciamento de produtos. O obje
 ## Como Executar
 ### Comando Maven para Executar Aplicações Spring Boot
 
-Para iniciar uma aplicação Spring Boot utilizando Maven, use o comando: mvn spring-boot:run
+Para iniciar uma aplicação Spring Boot utilizando Maven, use o comando: 
 
+``mvn spring-boot:run``
 
 Esse comando compila e executa a aplicação Spring Boot, facilitando o processo de desenvolvimento e teste.
 
